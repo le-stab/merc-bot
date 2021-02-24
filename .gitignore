@@ -3,4 +3,5 @@ __pycache__/*
 venv
 *.pyc
 src/ml_bot/__pycache__/settings.cpython-38.pyc
-
+src/ml_bot/__pycache__/*
+src/ml_bot/__pycache__/settings.cpython-38.pyc
